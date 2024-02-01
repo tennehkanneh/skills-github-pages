@@ -1,3 +1,3 @@
 
-# title: Skills GitHub Pages #
+# Skills GitHub Pages #
 
